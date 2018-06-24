@@ -1,0 +1,4 @@
+#Sun Jun 24 12:03:41 EDT 2018
+base.0=/Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

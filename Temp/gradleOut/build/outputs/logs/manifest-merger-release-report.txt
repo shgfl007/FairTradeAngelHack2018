@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:4:1-51:12
+	package
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:4:70-98
+		INJECTED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:4:123-148
+		INJECTED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:4:99-122
+		INJECTED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:4:11-69
+	android:installLocation
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:4:149-189
+supports-screens
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:5:3-163
+	android:largeScreens
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:5:78-105
+	android:smallScreens
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:5:21-48
+	android:normalScreens
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:5:49-77
+	android:xlargeScreens
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:5:106-134
+	android:anyDensity
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:5:135-160
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:7:3-65
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:7:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:9:3-79
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:9:20-76
+uses-permission#android.permission.STORAGE
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:10:3-64
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:10:20-61
+uses-permission#android.permission.INTERNET
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:11:3-65
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:11:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:12:3-77
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:12:20-74
+uses-permission#android.permission.SMS_RECEIVED
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:13:3-69
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:13:20-66
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:14:3-79
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:14:20-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:15:3-77
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:15:20-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:16:3-79
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:16:20-76
+application
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:17:3-46:17
+	android:label
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:17:92-124
+	android:icon
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:17:58-91
+	android:banner
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:17:147-184
+	android:theme
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:17:16-57
+	android:isGame
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:17:125-146
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:18:5-42:16
+	android:screenOrientation
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:18:102-140
+	android:label
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:18:69-101
+	android:hardwareAccelerated
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:18:355-390
+	android:launchMode
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:18:141-172
+	android:configChanges
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:18:173-354
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:18:15-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:19:7-23:23
+action#android.intent.action.MAIN
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:20:9-61
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:20:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:21:9-69
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:21:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:22:9-78
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:22:19-75
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:24:7-33:23
+	android:label
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:24:22-54
+action#android.intent.action.VIEW
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:25:17-58
+category#android.intent.category.DEFAULT
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:26:9-68
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:26:19-65
+category#android.intent.category.BROWSABLE
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:27:9-70
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:27:19-67
+data
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:29:9-101
+	android:host
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:29:37-69
+	android:scheme
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:29:15-36
+	android:pathPrefix
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:29:70-98
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:41:7-82
+	android:value
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:41:59-79
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:41:18-58
+meta-data#unity.build-id
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:43:5-101
+	android:value
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:43:46-98
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:43:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:44:5-69
+	android:value
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:44:49-66
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:44:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:45:5-74
+	android:value
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:45:51-71
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:45:16-50
+uses-feature#0x00020000
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:47:3-52
+	android:glEsVersion
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:47:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:48:3-88
+	android:required
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:48:61-85
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:48:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:49:3-99
+	android:required
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:49:72-96
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:49:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:50:3-108
+	android:required
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:50:81-105
+	android:name
+		ADDED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml:50:17-80
+uses-sdk
+INJECTED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/src/main/AndroidManifest.xml

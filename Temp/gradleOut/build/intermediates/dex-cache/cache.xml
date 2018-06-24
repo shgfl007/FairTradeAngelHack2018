@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="453f7ef63f34c4cfc7c6e10ab39c61f637b7855c">
+        <dex dex="/Users/danninglu/Documents/Other/cloud/AngelHack2018/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_d65e2540f6cda91cc2fb762e36011e06276eef7d.jar" />
+    </item>
+
+</items>

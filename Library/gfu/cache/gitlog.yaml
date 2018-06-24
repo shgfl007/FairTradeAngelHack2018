@@ -1,0 +1,2548 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-06-24T12:09:29.080-04:00
+  initializedAtString: 2018-06-24T12:07:01.794-04:00
+  log:
+  - commitID: 27f363737723cc8fe1ea945ce14acfbab070e685
+    mergeA: 
+    mergeB: 
+    authorName: shgfl
+    authorEmail: shgfl@hotmail.com
+    commitEmail: shgfl@hotmail.com
+    commitName: shgfl
+    summary: init
+    description: init
+    timeString: 2018-06-24T12:09:27.000-04:00
+    commitTimeString: 2018-06-24T12:09:27.000-04:00
+    changes:
+    - path: .collabignore
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/.collabignore
+      projectPath: .collabignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font.meta
+      projectPath: Assets/Font.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Black.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Black.ttf
+      projectPath: Assets/Font/Roboto-Black.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Black.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Black.ttf.meta
+      projectPath: Assets/Font/Roboto-Black.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-BlackItalic.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-BlackItalic.ttf
+      projectPath: Assets/Font/Roboto-BlackItalic.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-BlackItalic.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-BlackItalic.ttf.meta
+      projectPath: Assets/Font/Roboto-BlackItalic.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Bold.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Bold.ttf
+      projectPath: Assets/Font/Roboto-Bold.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Bold.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Bold.ttf.meta
+      projectPath: Assets/Font/Roboto-Bold.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-BoldCondensed.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-BoldCondensed.ttf
+      projectPath: Assets/Font/Roboto-BoldCondensed.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-BoldCondensed.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-BoldCondensed.ttf.meta
+      projectPath: Assets/Font/Roboto-BoldCondensed.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-BoldCondensedItalic.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-BoldCondensedItalic.ttf
+      projectPath: Assets/Font/Roboto-BoldCondensedItalic.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-BoldCondensedItalic.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-BoldCondensedItalic.ttf.meta
+      projectPath: Assets/Font/Roboto-BoldCondensedItalic.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-BoldItalic.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-BoldItalic.ttf
+      projectPath: Assets/Font/Roboto-BoldItalic.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-BoldItalic.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-BoldItalic.ttf.meta
+      projectPath: Assets/Font/Roboto-BoldItalic.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Condensed.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Condensed.ttf
+      projectPath: Assets/Font/Roboto-Condensed.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Condensed.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Condensed.ttf.meta
+      projectPath: Assets/Font/Roboto-Condensed.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-CondensedItalic.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-CondensedItalic.ttf
+      projectPath: Assets/Font/Roboto-CondensedItalic.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-CondensedItalic.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-CondensedItalic.ttf.meta
+      projectPath: Assets/Font/Roboto-CondensedItalic.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Italic.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Italic.ttf
+      projectPath: Assets/Font/Roboto-Italic.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Italic.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Italic.ttf.meta
+      projectPath: Assets/Font/Roboto-Italic.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Light.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Light.ttf
+      projectPath: Assets/Font/Roboto-Light.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Light.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Light.ttf.meta
+      projectPath: Assets/Font/Roboto-Light.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-LightItalic.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-LightItalic.ttf
+      projectPath: Assets/Font/Roboto-LightItalic.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-LightItalic.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-LightItalic.ttf.meta
+      projectPath: Assets/Font/Roboto-LightItalic.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Medium.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Medium.ttf
+      projectPath: Assets/Font/Roboto-Medium.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Medium.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Medium.ttf.meta
+      projectPath: Assets/Font/Roboto-Medium.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-MediumItalic.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-MediumItalic.ttf
+      projectPath: Assets/Font/Roboto-MediumItalic.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-MediumItalic.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-MediumItalic.ttf.meta
+      projectPath: Assets/Font/Roboto-MediumItalic.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Regular.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Regular.ttf
+      projectPath: Assets/Font/Roboto-Regular.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Regular.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Regular.ttf.meta
+      projectPath: Assets/Font/Roboto-Regular.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Thin.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Thin.ttf
+      projectPath: Assets/Font/Roboto-Thin.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-Thin.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-Thin.ttf.meta
+      projectPath: Assets/Font/Roboto-Thin.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-ThinItalic.ttf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-ThinItalic.ttf
+      projectPath: Assets/Font/Roboto-ThinItalic.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto-ThinItalic.ttf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto-ThinItalic.ttf.meta
+      projectPath: Assets/Font/Roboto-ThinItalic.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto_Specimen_Book.pdf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto_Specimen_Book.pdf
+      projectPath: Assets/Font/Roboto_Specimen_Book.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Font/Roboto_Specimen_Book.pdf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Font/Roboto_Specimen_Book.pdf.meta
+      projectPath: Assets/Font/Roboto_Specimen_Book.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image.meta
+      projectPath: Assets/Image.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/LOGO-01.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/LOGO-01.png
+      projectPath: Assets/Image/LOGO-01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/LOGO-01.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/LOGO-01.png.meta
+      projectPath: Assets/Image/LOGO-01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/LOGO_ft-06.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/LOGO_ft-06.png
+      projectPath: Assets/Image/LOGO_ft-06.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/LOGO_ft-06.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/LOGO_ft-06.png.meta
+      projectPath: Assets/Image/LOGO_ft-06.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/Rectangle-red.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/Rectangle-red.png
+      projectPath: Assets/Image/Rectangle-red.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/Rectangle-red.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/Rectangle-red.png.meta
+      projectPath: Assets/Image/Rectangle-red.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/Rectangle-red2.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/Rectangle-red2.png
+      projectPath: Assets/Image/Rectangle-red2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/Rectangle-red2.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/Rectangle-red2.png.meta
+      projectPath: Assets/Image/Rectangle-red2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/backbutton.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/backbutton.png
+      projectPath: Assets/Image/backbutton.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/backbutton.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/backbutton.png.meta
+      projectPath: Assets/Image/backbutton.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/button_yellow2.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/button_yellow2.png
+      projectPath: Assets/Image/button_yellow2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/button_yellow2.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/button_yellow2.png.meta
+      projectPath: Assets/Image/button_yellow2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/circle_white-02.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/circle_white-02.png
+      projectPath: Assets/Image/circle_white-02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/circle_white-02.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/circle_white-02.png.meta
+      projectPath: Assets/Image/circle_white-02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/dropdown_g.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/dropdown_g.png
+      projectPath: Assets/Image/dropdown_g.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/dropdown_g.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/dropdown_g.png.meta
+      projectPath: Assets/Image/dropdown_g.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/fam 3.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/fam
+        3.png
+      projectPath: Assets/Image/fam 3.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/fam 3.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/fam
+        3.png.meta
+      projectPath: Assets/Image/fam 3.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/fam6.jpg
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/fam6.jpg
+      projectPath: Assets/Image/fam6.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/fam6.jpg.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/fam6.jpg.meta
+      projectPath: Assets/Image/fam6.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/form_graphic.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/form_graphic.png
+      projectPath: Assets/Image/form_graphic.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/form_graphic.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/form_graphic.png.meta
+      projectPath: Assets/Image/form_graphic.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/icon-profile-02.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/icon-profile-02.png
+      projectPath: Assets/Image/icon-profile-02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/icon-profile-02.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/icon-profile-02.png.meta
+      projectPath: Assets/Image/icon-profile-02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap.meta
+      projectPath: Assets/Image/item_swap.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/562b4c76e8a66840056328.jpg
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/562b4c76e8a66840056328.jpg
+      projectPath: Assets/Image/item_swap/562b4c76e8a66840056328.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/562b4c76e8a66840056328.jpg.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/562b4c76e8a66840056328.jpg.meta
+      projectPath: Assets/Image/item_swap/562b4c76e8a66840056328.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Bike.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Bike.png
+      projectPath: Assets/Image/item_swap/Bike.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Bike.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Bike.png.meta
+      projectPath: Assets/Image/item_swap/Bike.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Blender.jpg
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Blender.jpg
+      projectPath: Assets/Image/item_swap/Blender.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Blender.jpg.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Blender.jpg.meta
+      projectPath: Assets/Image/item_swap/Blender.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Coat.jpg
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Coat.jpg
+      projectPath: Assets/Image/item_swap/Coat.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Coat.jpg.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Coat.jpg.meta
+      projectPath: Assets/Image/item_swap/Coat.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Couch.jpg
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Couch.jpg
+      projectPath: Assets/Image/item_swap/Couch.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Couch.jpg.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Couch.jpg.meta
+      projectPath: Assets/Image/item_swap/Couch.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Mattress.jpg
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Mattress.jpg
+      projectPath: Assets/Image/item_swap/Mattress.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Mattress.jpg.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Mattress.jpg.meta
+      projectPath: Assets/Image/item_swap/Mattress.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Neil+Annie-67.jpg
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Neil+Annie-67.jpg
+      projectPath: Assets/Image/item_swap/Neil+Annie-67.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Neil+Annie-67.jpg.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Neil+Annie-67.jpg.meta
+      projectPath: Assets/Image/item_swap/Neil+Annie-67.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Newcomer-Kitchen_4.jpg
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Newcomer-Kitchen_4.jpg
+      projectPath: Assets/Image/item_swap/Newcomer-Kitchen_4.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Newcomer-Kitchen_4.jpg.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Newcomer-Kitchen_4.jpg.meta
+      projectPath: Assets/Image/item_swap/Newcomer-Kitchen_4.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Rectangle 2.3.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Rectangle
+        2.3.png
+      projectPath: Assets/Image/item_swap/Rectangle 2.3.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/Rectangle 2.3.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/Rectangle
+        2.3.png.meta
+      projectPath: Assets/Image/item_swap/Rectangle 2.3.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/baby stroller.jpg
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/baby
+        stroller.jpg
+      projectPath: Assets/Image/item_swap/baby stroller.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/baby stroller.jpg.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/baby
+        stroller.jpg.meta
+      projectPath: Assets/Image/item_swap/baby stroller.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/crib.jpeg
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/crib.jpeg
+      projectPath: Assets/Image/item_swap/crib.jpeg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/crib.jpeg.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/crib.jpeg.meta
+      projectPath: Assets/Image/item_swap/crib.jpeg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/fam 3.jpg
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/fam
+        3.jpg
+      projectPath: Assets/Image/item_swap/fam 3.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/fam 3.jpg.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/fam
+        3.jpg.meta
+      projectPath: Assets/Image/item_swap/fam 3.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/google_home.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/google_home.png
+      projectPath: Assets/Image/item_swap/google_home.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/google_home.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/google_home.png.meta
+      projectPath: Assets/Image/item_swap/google_home.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/gradient_bw.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/gradient_bw.png
+      projectPath: Assets/Image/item_swap/gradient_bw.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/gradient_bw.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/gradient_bw.png.meta
+      projectPath: Assets/Image/item_swap/gradient_bw.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/icon-cribw-01.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/icon-cribw-01.png
+      projectPath: Assets/Image/item_swap/icon-cribw-01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/icon-cribw-01.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/icon-cribw-01.png.meta
+      projectPath: Assets/Image/item_swap/icon-cribw-01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/icon-tv.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/icon-tv.png
+      projectPath: Assets/Image/item_swap/icon-tv.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/icon-tv.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/icon-tv.png.meta
+      projectPath: Assets/Image/item_swap/icon-tv.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/icon_bbq.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/icon_bbq.png
+      projectPath: Assets/Image/item_swap/icon_bbq.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/icon_bbq.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/icon_bbq.png.meta
+      projectPath: Assets/Image/item_swap/icon_bbq.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/icon_bike.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/icon_bike.png
+      projectPath: Assets/Image/item_swap/icon_bike.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/icon_bike.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/icon_bike.png.meta
+      projectPath: Assets/Image/item_swap/icon_bike.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/icon_crib.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/icon_crib.png
+      projectPath: Assets/Image/item_swap/icon_crib.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/icon_crib.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/icon_crib.png.meta
+      projectPath: Assets/Image/item_swap/icon_crib.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/item.prefab
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/item.prefab
+      projectPath: Assets/Image/item_swap/item.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/item.prefab.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/item.prefab.meta
+      projectPath: Assets/Image/item_swap/item.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/wishlist.prefab
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/wishlist.prefab
+      projectPath: Assets/Image/item_swap/wishlist.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/wishlist.prefab.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/wishlist.prefab.meta
+      projectPath: Assets/Image/item_swap/wishlist.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/yellow_bg.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/yellow_bg.png
+      projectPath: Assets/Image/item_swap/yellow_bg.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/item_swap/yellow_bg.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/item_swap/yellow_bg.png.meta
+      projectPath: Assets/Image/item_swap/yellow_bg.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/kylo2.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/kylo2.png
+      projectPath: Assets/Image/kylo2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/kylo2.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/kylo2.png.meta
+      projectPath: Assets/Image/kylo2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/rectangle_yellow.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/rectangle_yellow.png
+      projectPath: Assets/Image/rectangle_yellow.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/rectangle_yellow.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/rectangle_yellow.png.meta
+      projectPath: Assets/Image/rectangle_yellow.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/toggle_empty.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/toggle_empty.png
+      projectPath: Assets/Image/toggle_empty.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/toggle_empty.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/toggle_empty.png.meta
+      projectPath: Assets/Image/toggle_empty.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/toggle_full.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/toggle_full.png
+      projectPath: Assets/Image/toggle_full.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/toggle_full.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/toggle_full.png.meta
+      projectPath: Assets/Image/toggle_full.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/trigger_g.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/trigger_g.png
+      projectPath: Assets/Image/trigger_g.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/trigger_g.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/trigger_g.png.meta
+      projectPath: Assets/Image/trigger_g.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/trigger_r.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/trigger_r.png
+      projectPath: Assets/Image/trigger_r.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/trigger_r.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/trigger_r.png.meta
+      projectPath: Assets/Image/trigger_r.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/trigger_y.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/trigger_y.png
+      projectPath: Assets/Image/trigger_y.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Image/trigger_y.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Image/trigger_y.png.meta
+      projectPath: Assets/Image/trigger_y.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins.meta
+      projectPath: Assets/Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/Android.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/Android.meta
+      projectPath: Assets/Plugins/Android.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/Android/AndroidManifest.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/Android/AndroidManifest.xml
+      projectPath: Assets/Plugins/Android/AndroidManifest.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/Android/AndroidManifest.xml.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/Android/AndroidManifest.xml.meta
+      projectPath: Assets/Plugins/Android/AndroidManifest.xml.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub.meta
+      projectPath: Assets/Plugins/GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor.meta
+      projectPath: Assets/Plugins/GitHub/Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      projectPath: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/System.Threading.dll
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/credits.txt
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/credits.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/eula.txt
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/eula.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/libsfw.bundle
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/libsfw.so
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/sfw.net.dll
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/x64.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/x86.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Prefab.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Prefab.meta
+      projectPath: Assets/Prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Prefab/AppManager.prefab
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Prefab/AppManager.prefab
+      projectPath: Assets/Prefab/AppManager.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Prefab/AppManager.prefab.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Prefab/AppManager.prefab.meta
+      projectPath: Assets/Prefab/AppManager.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes.meta
+      projectPath: Assets/Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/Create_item.unity
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/Create_item.unity
+      projectPath: Assets/Scenes/Create_item.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/Create_item.unity.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/Create_item.unity.meta
+      projectPath: Assets/Scenes/Create_item.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/Discover_Page + Discover_Page.unity
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/Discover_Page
+        + Discover_Page.unity
+      projectPath: Assets/Scenes/Discover_Page + Discover_Page.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/Discover_Page + Discover_Page.unity.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/Discover_Page
+        + Discover_Page.unity.meta
+      projectPath: Assets/Scenes/Discover_Page + Discover_Page.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/Discover_Page.unity
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/Discover_Page.unity
+      projectPath: Assets/Scenes/Discover_Page.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/Discover_Page.unity.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/Discover_Page.unity.meta
+      projectPath: Assets/Scenes/Discover_Page.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/Item_page_shopper.unity
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/Item_page_shopper.unity
+      projectPath: Assets/Scenes/Item_page_shopper.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/Item_page_shopper.unity.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/Item_page_shopper.unity.meta
+      projectPath: Assets/Scenes/Item_page_shopper.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/MainScreen.unity
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/MainScreen.unity
+      projectPath: Assets/Scenes/MainScreen.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/MainScreen.unity.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/MainScreen.unity.meta
+      projectPath: Assets/Scenes/MainScreen.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/RegistrationLogin.unity
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/RegistrationLogin.unity
+      projectPath: Assets/Scenes/RegistrationLogin.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/RegistrationLogin.unity.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/RegistrationLogin.unity.meta
+      projectPath: Assets/Scenes/RegistrationLogin.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/SampleScene.unity
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/SampleScene.unity.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/SampleScene.unity.meta
+      projectPath: Assets/Scenes/SampleScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/test000.unity
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/test000.unity
+      projectPath: Assets/Scenes/test000.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/test000.unity.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scenes/test000.unity.meta
+      projectPath: Assets/Scenes/test000.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts.meta
+      projectPath: Assets/Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/SendMessage.cs
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/SendMessage.cs
+      projectPath: Assets/Scripts/SendMessage.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/SendMessage.cs.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/SendMessage.cs.meta
+      projectPath: Assets/Scripts/SendMessage.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/loadApp.cs
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/loadApp.cs
+      projectPath: Assets/Scripts/loadApp.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/loadApp.cs.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/loadApp.cs.meta
+      projectPath: Assets/Scripts/loadApp.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/sessionGlobalParams.cs
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/sessionGlobalParams.cs
+      projectPath: Assets/Scripts/sessionGlobalParams.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/sessionGlobalParams.cs.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/sessionGlobalParams.cs.meta
+      projectPath: Assets/Scripts/sessionGlobalParams.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/uiManager.cs
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/uiManager.cs
+      projectPath: Assets/Scripts/uiManager.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/uiManager.cs.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/uiManager.cs.meta
+      projectPath: Assets/Scripts/uiManager.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/uiManagerDiscover.cs
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/uiManagerDiscover.cs
+      projectPath: Assets/Scripts/uiManagerDiscover.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/uiManagerDiscover.cs.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/uiManagerDiscover.cs.meta
+      projectPath: Assets/Scripts/uiManagerDiscover.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/uiManagerProfile.cs
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/uiManagerProfile.cs
+      projectPath: Assets/Scripts/uiManagerProfile.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/uiManagerProfile.cs.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/uiManagerProfile.cs.meta
+      projectPath: Assets/Scripts/uiManagerProfile.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/uiManagerRegLogin.cs
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/uiManagerRegLogin.cs
+      projectPath: Assets/Scripts/uiManagerRegLogin.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/uiManagerRegLogin.cs.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/Scripts/uiManagerRegLogin.cs.meta
+      projectPath: Assets/Scripts/uiManagerRegLogin.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/goto_item_page.cs
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/goto_item_page.cs
+      projectPath: Assets/goto_item_page.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/goto_item_page.cs.meta
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/goto_item_page.cs.meta
+      projectPath: Assets/goto_item_page.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Packages/manifest.json
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Packages/manifest.json
+      projectPath: Packages/manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/AudioManager.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/AudioManager.asset
+      projectPath: ProjectSettings/AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ClusterInputManager.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/ClusterInputManager.asset
+      projectPath: ProjectSettings/ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/DynamicsManager.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/DynamicsManager.asset
+      projectPath: ProjectSettings/DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/EditorBuildSettings.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/EditorBuildSettings.asset
+      projectPath: ProjectSettings/EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/EditorSettings.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/EditorSettings.asset
+      projectPath: ProjectSettings/EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/GraphicsSettings.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/GraphicsSettings.asset
+      projectPath: ProjectSettings/GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/InputManager.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/InputManager.asset
+      projectPath: ProjectSettings/InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/NavMeshAreas.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/NavMeshAreas.asset
+      projectPath: ProjectSettings/NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/NetworkManager.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/NetworkManager.asset
+      projectPath: ProjectSettings/NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/Physics2DSettings.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/Physics2DSettings.asset
+      projectPath: ProjectSettings/Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/PresetManager.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/PresetManager.asset
+      projectPath: ProjectSettings/PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ProjectVersion.txt
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/ProjectVersion.txt
+      projectPath: ProjectSettings/ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/QualitySettings.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/QualitySettings.asset
+      projectPath: ProjectSettings/QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/TagManager.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/TagManager.asset
+      projectPath: ProjectSettings/TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/TimeManager.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/TimeManager.asset
+      projectPath: ProjectSettings/TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/UnityConnectSettings.asset
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/ProjectSettings/UnityConnectSettings.asset
+      projectPath: ProjectSettings/UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib
+      projectPath: test01.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libmono.0.dylib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libmono.0.dylib
+      projectPath: test01.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libmono.0.dylib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Frameworks/libcrypto.dylib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Frameworks/libcrypto.dylib
+      projectPath: test01.app/Contents/Frameworks/libcrypto.dylib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Frameworks/libssl.dylib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Frameworks/libssl.dylib
+      projectPath: test01.app/Contents/Frameworks/libssl.dylib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Info.plist
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Info.plist
+      projectPath: test01.app/Contents/Info.plist
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MacOS/test01
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MacOS/test01
+      projectPath: test01.app/Contents/MacOS/test01
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx
+      projectPath: test01.app/Contents/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Mono/etc/mono/1.0/machine.config
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Mono/etc/mono/1.0/machine.config
+      projectPath: test01.app/Contents/Mono/etc/mono/1.0/machine.config
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Mono/etc/mono/2.0/Browsers/Compat.browser
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Mono/etc/mono/2.0/Browsers/Compat.browser
+      projectPath: test01.app/Contents/Mono/etc/mono/2.0/Browsers/Compat.browser
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+      projectPath: test01.app/Contents/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Mono/etc/mono/2.0/machine.config
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Mono/etc/mono/2.0/machine.config
+      projectPath: test01.app/Contents/Mono/etc/mono/2.0/machine.config
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Mono/etc/mono/2.0/settings.map
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Mono/etc/mono/2.0/settings.map
+      projectPath: test01.app/Contents/Mono/etc/mono/2.0/settings.map
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Mono/etc/mono/2.0/web.config
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Mono/etc/mono/2.0/web.config
+      projectPath: test01.app/Contents/Mono/etc/mono/2.0/web.config
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Mono/etc/mono/browscap.ini
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Mono/etc/mono/browscap.ini
+      projectPath: test01.app/Contents/Mono/etc/mono/browscap.ini
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Mono/etc/mono/config
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Mono/etc/mono/config
+      projectPath: test01.app/Contents/Mono/etc/mono/config
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Mono/etc/mono/mconfig/config.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Mono/etc/mono/mconfig/config.xml
+      projectPath: test01.app/Contents/Mono/etc/mono/mconfig/config.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/config
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/config
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/config
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml
+      projectPath: test01.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Ageia.tif
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Ageia.tif
+      projectPath: test01.app/Contents/Resources/Ageia.tif
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/Mono.Security.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/Mono.Security.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/Mono.Security.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/System.Core.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/System.Core.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/System.Core.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/System.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/System.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/System.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.Analytics.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.Analytics.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.Analytics.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.BaselibModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.BaselibModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.BaselibModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.BaselibModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.BaselibModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.BaselibModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.CloudWebServicesModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.CloudWebServicesModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.CloudWebServicesModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.CloudWebServicesModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.CloudWebServicesModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.CloudWebServicesModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.FacebookModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.FacebookModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.FacebookModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.FacebookModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.FacebookModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.FacebookModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTracking.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTracking.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTracking.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTrackingModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTrackingModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTrackingModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTrackingModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTrackingModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTrackingModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.StandardEvents.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.StandardEvents.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.StandardEvents.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.TimelineModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.TimelineModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.TimelineModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.TimelineModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.TimelineModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.TimelineModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/UnityEngine.xml
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/UnityEngine.xml
+      projectPath: test01.app/Contents/Resources/Data/Managed/UnityEngine.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Managed/mscorlib.dll
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Managed/mscorlib.dll
+      projectPath: test01.app/Contents/Resources/Data/Managed/mscorlib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/Resources/unity_builtin_extra
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/Resources/unity_builtin_extra
+      projectPath: test01.app/Contents/Resources/Data/Resources/unity_builtin_extra
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/boot.config
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/boot.config
+      projectPath: test01.app/Contents/Resources/Data/boot.config
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/globalgamemanagers
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/globalgamemanagers
+      projectPath: test01.app/Contents/Resources/Data/globalgamemanagers
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/globalgamemanagers.assets
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/globalgamemanagers.assets
+      projectPath: test01.app/Contents/Resources/Data/globalgamemanagers.assets
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/globalgamemanagers.assets.resS
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/globalgamemanagers.assets.resS
+      projectPath: test01.app/Contents/Resources/Data/globalgamemanagers.assets.resS
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/level0
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/level0
+      projectPath: test01.app/Contents/Resources/Data/level0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/level0.resS
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/level0.resS
+      projectPath: test01.app/Contents/Resources/Data/level0.resS
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/sharedassets0.assets
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/sharedassets0.assets
+      projectPath: test01.app/Contents/Resources/Data/sharedassets0.assets
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Data/sharedassets0.assets.resS
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Data/sharedassets0.assets.resS
+      projectPath: test01.app/Contents/Resources/Data/sharedassets0.assets.resS
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/DefaultPreferences.plist
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/DefaultPreferences.plist
+      projectPath: test01.app/Contents/Resources/DefaultPreferences.plist
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/KeyConfig.nib/classes.nib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/KeyConfig.nib/classes.nib
+      projectPath: test01.app/Contents/Resources/KeyConfig.nib/classes.nib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/KeyConfig.nib/info.nib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/KeyConfig.nib/info.nib
+      projectPath: test01.app/Contents/Resources/KeyConfig.nib/info.nib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib
+      projectPath: test01.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/MainMenu.nib/classes.nib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/MainMenu.nib/classes.nib
+      projectPath: test01.app/Contents/Resources/MainMenu.nib/classes.nib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/MainMenu.nib/info.nib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/MainMenu.nib/info.nib
+      projectPath: test01.app/Contents/Resources/MainMenu.nib/info.nib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+      projectPath: test01.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/Mono.tif
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/Mono.tif
+      projectPath: test01.app/Contents/Resources/Mono.tif
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/PlayerIcon.icns
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/PlayerIcon.icns
+      projectPath: test01.app/Contents/Resources/PlayerIcon.icns
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/ScreenSelector.nib/classes.nib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/ScreenSelector.nib/classes.nib
+      projectPath: test01.app/Contents/Resources/ScreenSelector.nib/classes.nib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/ScreenSelector.nib/designable.nib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/ScreenSelector.nib/designable.nib
+      projectPath: test01.app/Contents/Resources/ScreenSelector.nib/designable.nib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/ScreenSelector.nib/info.nib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/ScreenSelector.nib/info.nib
+      projectPath: test01.app/Contents/Resources/ScreenSelector.nib/info.nib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib
+      projectPath: test01.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/UnityPlayerIcon.png
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/UnityPlayerIcon.png
+      projectPath: test01.app/Contents/Resources/UnityPlayerIcon.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: test01.app/Contents/Resources/unity default resources
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/test01.app/Contents/Resources/unity
+        default resources
+      projectPath: test01.app/Contents/Resources/unity default resources
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: db070c621830e504de9e64c8e262c8c29fe2c56f
+    mergeA: 
+    mergeB: 
+    authorName: shgfl
+    authorEmail: shgfl@hotmail.com
+    commitEmail: shgfl@hotmail.com
+    commitName: shgfl
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-06-24T12:07:01.000-04:00
+    commitTimeString: 2018-06-24T12:07:01.000-04:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/.gitignore
+      fullPath: /Users/danninglu/Documents/Other/cloud/AngelHack2018/Assets/.gitignore
+      projectPath: Assets/.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
